@@ -46,12 +46,3 @@ You do need to modify **some** of these files.
     - `rx200_pox.csv` - Containes the S list and M matrix for the RX200 arm.
         - You will need to fill this in
 
-
-### Irrelavent
-Not need to touch these files.
-- [media](media) - where we store media that used for README instructions
-- [src/resource](code/src/resource) - where we store the additional files used in the project
-
-## How to start?
-1. Go to [/install_scripts](install_scripts) and following the `README.md` instructions
-2. Go to [/launch](launch) to start the ROS2 nodes with the `.sh` files following the `README.md` instructions
