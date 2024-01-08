@@ -1,4 +1,4 @@
-# armlab-f23
+# arm robot for vision-guided precision to pick and place blocks
 
 **Table of content**
 - [Code structure](#code-structure)
