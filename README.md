@@ -5,8 +5,6 @@ This project focuses on advancing the autonomy of robotic systems through the in
 ![Alt text](/media/image_blocks.png)
 
 
-# Robotic Arm Manipulation
-
 **Table of content**
 - [Code structure](#code-structure)
 - [How to start](#how-to-start)
@@ -22,7 +20,7 @@ You do need to modify **some** of these files.
     - `install_Dependencies.sh` - to install ROS2/All the ROS wrappers/Dependencies
     - `install_Interbotix.sh` - to install arm related stuff
     - `install_LaunchFiles.sh` - to move the files under `/config` to where it should to be 
-- [launch](launch) - to store the launch files, details in [here](launch/README.md)
+- [launch](launch) - to store the launch files, details in [here](code/launch/README.md)
 - [src](src) - where you actually write code
     - `camera.py` - Implements the Camera class for the RealSense camera. 
         - Functions to capture and convert frames
@@ -52,7 +50,7 @@ You do need to modify **some** of these files.
 ### Irrelavent
 Not need to touch these files.
 - [media](media) - where we store media that used for README instructions
-- [src/resource](src/resource) - where we store the additional files used in the project
+- [src/resource](code/src/resource) - where we store the additional files used in the project
 
 ## How to start?
 1. Go to [/install_scripts](install_scripts) and following the `README.md` instructions
