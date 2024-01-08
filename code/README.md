@@ -1,4 +1,4 @@
-# arm robot for vision-guided precision to pick and place blocks
+# Robotic Arm Manipulation
 
 **Table of content**
 - [Code structure](#code-structure)
