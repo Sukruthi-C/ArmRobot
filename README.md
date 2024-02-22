@@ -13,7 +13,7 @@ This project focuses on advancing the autonomy of robotic systems through the in
 
 ## Code structure
 
-### Relavent 
+### Relevant 
 You do need to modify **some** of these files.
 - [install_scripts](install_scripts)
     - [install_scripts/config](install_scripts/config)
